@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef28ZoekMedewerker", "Oef28ZoekMedewerker\Oef28ZoekMedewerker.csproj", "{8BF646EF-2193-43AB-B2CB-094C61EBD5B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLib", "ClassLib\ClassLib.csproj", "{61CDA937-15D1-46D5-9CF7-663CB9D9C476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF646EF-2193-43AB-B2CB-094C61EBD5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF646EF-2193-43AB-B2CB-094C61EBD5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF646EF-2193-43AB-B2CB-094C61EBD5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF646EF-2193-43AB-B2CB-094C61EBD5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CDA937-15D1-46D5-9CF7-663CB9D9C476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CDA937-15D1-46D5-9CF7-663CB9D9C476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CDA937-15D1-46D5-9CF7-663CB9D9C476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CDA937-15D1-46D5-9CF7-663CB9D9C476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
